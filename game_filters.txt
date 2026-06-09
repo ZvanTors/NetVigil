@@ -1,0 +1,33 @@
+battle.net.exe
+battlenet.exe
+bethesda.net launcher.exe
+cod.exe
+csgo.exe
+epicgameslauncher.exe
+fifa.exe
+fortnite.exe
+gamelauncher.exe
+gamingservices.exe
+goggalaxy.exe
+gta5.exe
+launcher.exe
+league of legends.exe
+minecraft.exe
+nba2k.exe
+origin.exe
+originwebhelper.exe
+overwatch.exe
+rdr2.exe
+riotclientservices.exe
+roblox.exe
+rockstar.exe
+socialclub.exe
+steam.exe
+steamservice.exe
+steamwebhelper.exe
+ubisoftconnect.exe
+upc.exe
+uplay.exe
+valorant.exe
+xbox.exe
+xboxgamebar.exe
