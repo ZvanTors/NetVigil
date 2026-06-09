@@ -15,10 +15,6 @@ Features a dedicated **Games & Launchers** tab with customizable filters, real-t
 - **Custom Dark UI** – Frameless window with custom title bar, modern color palette, and smooth styling.
 - **Run as Administrator** – Built-in manifest requests elevated privileges for full connection visibility.
 
-## 📸 Screenshot
-
-*(Add a screenshot of your app here to make the README attractive)*
-
 ## 📋 Requirements
 
 - Windows 10/11 (tested)
